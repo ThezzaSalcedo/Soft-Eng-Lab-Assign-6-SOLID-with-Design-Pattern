@@ -34,4 +34,4 @@ The system was refactored using **abstraction and design patterns**.
 - Used **Dependency Injection** in `Student`
 
 ## UML Diagram 
-![alt text](https://github.com/ThezzaSalcedo/Soft-Eng-Solid-Principle-Lab-Assign-5/blob/main/Solid%20Principle%20UML.png)
+![alt text](https://github.com/ThezzaSalcedo/Soft-Eng-Lab-Assign-6-SOLID-with-Design-Pattern/blob/main/UML%20Diagram%20(2).png)
